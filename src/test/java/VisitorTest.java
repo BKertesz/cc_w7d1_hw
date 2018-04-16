@@ -9,5 +9,5 @@ public class VisitorTest {
         visitor1 = new Visitor(21,178,200);
     }
 
-    
+
 }
