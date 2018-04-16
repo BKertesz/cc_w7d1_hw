@@ -12,7 +12,7 @@ public class ThemePark {
 
     public void listAll(){
         for (IEnjoyable item:enjoyable) {
-            System.out.println(item.getName() + item.getFunRating());
+            System.out.println(item.getName() + ": " + item.getFunRating());
         }
     }
 }
